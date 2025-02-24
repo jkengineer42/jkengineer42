@@ -7,4 +7,16 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jkengineer42&theme=apprentice)
 
-https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white
+## À propos de moi
+
+💻 Développeur passionné par Vue.js, TypeScript et les technologies web.  
+📌 J'adore créer des projets interactifs et partager mes connaissances.
+
+🔗 **Retrouvez-moi ici :**  
+- 🌍 [Mon site perso](https://ton-site.com)  
+- 🐦 [Twitter](https://twitter.com/ton-profil)  
+- 🔗 [LinkedIn](https://linkedin.com/in/ton-profil)
+
+---
+
+🔥 *Merci de visiter mon profil ! N’hésitez pas à me contacter ou à contribuer à mes projets !* 🚀
