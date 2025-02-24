@@ -1,4 +1,4 @@
-## Hi there 👋
+![My animation](./assets/jk42.gif)
 
 - 🔭 I’m currently working on a Website Agency Project
 - 🌱 I’m currently learning Pyhton, JavaScript and PHP
