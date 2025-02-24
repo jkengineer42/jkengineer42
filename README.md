@@ -1,5 +1,7 @@
 ![My animation](./assets/readme.gif)
 
+![](https://komarev.com/ghpvc/?username=jkengineer42&style=flat-square)
+
 - 🔭 I’m currently working on a Website Agency Project
 - 🌱 I’m currently learning Pyhton, JavaScript and PHP
 
