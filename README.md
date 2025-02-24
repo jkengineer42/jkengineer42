@@ -9,25 +9,27 @@
 
 ### Languages and Technologies  
 
-![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C&logoColor=A8B9CC)&nbsp;
-![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white)&nbsp;
+![C](https://img.shields.io/badge/-C-323330?style=for-the-badge&logo=C&logoColor=A8B9CC)&nbsp;
+![Python](https://img.shields.io/badge/-Python-323330?style=for-the-badge&logo=python)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-323330?style=for-the-badge&logo=php&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
 
-![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github)&nbsp;
 
-![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
-![Hugo](https://img.shields.io/badge/Hugo-000000?style=for-the-badge&logo=hugo&logoColor=white)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=markdown)&nbsp;
+![Git](https://img.shields.io/badge/-Git-323330?style=for-the-badge&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-323330?style=for-the-badge&logo=github)&nbsp;
 
-![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)&nbsp;
-![VS Code](https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-323330?style=for-the-badge&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-323330?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
+![Hugo](https://img.shields.io/badge/Hugo-323330?style=for-the-badge&logo=hugo&logoColor=white)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-323330?style=for-the-badge&logo=markdown)&nbsp;
 
-![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+![PyCharm](https://img.shields.io/badge/PyCharm-323330.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)&nbsp;
+![VS Code](https://img.shields.io/badge/VSCode-323330?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)&nbsp;
-![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-323330?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+
+![iOS](https://img.shields.io/badge/iOS-323330?style=for-the-badge&logo=ios&logoColor=white)&nbsp;
+![MacOS](https://img.shields.io/badge/mac%20os-323330?style=for-the-badge&logo=apple&logoColor=white)&nbsp;
 
 ### Statistics
 
@@ -42,9 +44,9 @@
 ### Connect with me 
 
 <p align="center">
-<a href="https://jk42.live"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
-<a href="mailto:jeremie.konda@outlook.fr"><img src="https://img.shields.io/badge/Microsoft_Outlook-000000?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/jeremie-konda/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://jk42.live"><img src="https://img.shields.io/badge/Portfolio-323330?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+<a href="mailto:jeremie.konda@outlook.fr"><img src="https://img.shields.io/badge/Microsoft_Outlook-323330?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jeremie-konda/"><img src="https://img.shields.io/badge/LinkedIn-323330?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </p>
 ---
