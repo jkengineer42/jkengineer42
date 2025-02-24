@@ -7,11 +7,6 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jkengineer42&theme=apprentice)
 
-## À propos de moi
-
-💻 Développeur passionné par Vue.js, TypeScript et les technologies web.  
-📌 J'adore créer des projets interactifs et partager mes connaissances.
-
 🔗 **Retrouvez-moi ici :**  
 - 🌍 [Mon site perso](https://ton-site.com)  
 - 🐦 [Twitter](https://twitter.com/ton-profil)  
