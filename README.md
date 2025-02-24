@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jkengineer42&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="jkengineer42" /> </p>  
 
-- 🔭 I’m currently working on a [Website for a Travel Agency](https://github.com/jkengineer42/jkengineer42/edit/main/README.md)
+- 🔭 I’m currently working on a website project
 - 🌱 I’m currently learning **Pyhton, JavaScript and PHP**
 - 👨‍💻 All of my projects are available on **GitHub**
 
