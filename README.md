@@ -1,4 +1,4 @@
-![My animation](./assets/jk42.gif)
+![My animation](./assets/readme.gif)
 
 - 🔭 I’m currently working on a Website Agency Project
 - 🌱 I’m currently learning Pyhton, JavaScript and PHP
