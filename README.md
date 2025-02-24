@@ -41,6 +41,12 @@
 
 ### Connect with me 
 
+<p align="center">
+<a href="https://jk42.live"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+<a href="mailto:jeremie.konda@outlook.fr"><img src="https://img.shields.io/badge/Microsoft_Outlook-000000?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jeremie-konda/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+</p>
 ---
 
 🔥 *Thank you for visiting my profile! Feel free to contact me or contribute to my projects!* 🚀
