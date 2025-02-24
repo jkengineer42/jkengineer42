@@ -40,9 +40,7 @@
 </div>
 
 ### Connect with me 
-- 🌍 [Mon site perso](https://ton-site.com)  
-- 🔗 [LinkedIn](https://linkedin.com/in/ton-profil)
 
 ---
 
-🔥 *Merci de visiter mon profil ! N’hésitez pas à me contacter ou à contribuer à mes projets !* 🚀
+🔥 *Thank you for visiting my profile! Feel free to contact me or contribute to my projects!* 🚀
