@@ -1,7 +1,7 @@
 ![My animation](./assets/readme.gif)
 <h3 align="center">A passionate computer science student from France</h3>  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jkengineer42&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="jkengineer42" /> </p>  
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jkengineer42&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="jkengineer42" /> </p>  
 
 - 🔭 I’m currently working on a [Website for a Travel Agency](https://github.com/jkengineer42/jkengineer42/edit/main/README.md)
 - 🌱 I’m currently learning **Pyhton, JavaScript and PHP**
@@ -22,7 +22,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=markdown)&nbsp;
 
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)&nbsp;
-![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
+![VS Code](https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 
@@ -31,7 +31,13 @@
 
 ### Statistics
 
+<div align="center">
+  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jkengineer42&theme=apprentice)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jkengineer42&theme=apprentice)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jkengineer42&theme=apprentice)
+
+</div>
 
 ### Connect with me 
 - 🌍 [Mon site perso](https://ton-site.com)  
