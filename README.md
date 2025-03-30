@@ -52,4 +52,3 @@
 
 ---
 
-🔥 *Thank you for visiting my profile! Feel free to contact me or contribute to my projects!* 🚀
