@@ -10,24 +10,14 @@
 
 ![C](https://img.shields.io/badge/-C-323330?style=for-the-badge&logo=C&logoColor=A8B9CC)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-323330?style=for-the-badge&logo=python)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-323330?style=for-the-badge&logo=php&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
-
 
 ![Git](https://img.shields.io/badge/-Git-323330?style=for-the-badge&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-323330?style=for-the-badge&logo=github)&nbsp;
-
-![HTML](https://img.shields.io/badge/-HTML-323330?style=for-the-badge&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-323330?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
-![Hugo](https://img.shields.io/badge/Hugo-323330?style=for-the-badge&logo=hugo&logoColor=white)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-323330?style=for-the-badge&logo=markdown)&nbsp;
 
 ![PyCharm](https://img.shields.io/badge/PyCharm-323330.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)&nbsp;
 ![VS Code](https://img.shields.io/badge/VSCode-323330?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 
 ![Figma](https://img.shields.io/badge/Figma-323330?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-
-![iOS](https://img.shields.io/badge/iOS-323330?style=for-the-badge&logo=ios&logoColor=white)&nbsp;
 ![MacOS](https://img.shields.io/badge/mac%20os-323330?style=for-the-badge&logo=apple&logoColor=white)&nbsp;
 
 ### Statistics
