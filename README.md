@@ -17,9 +17,6 @@
 ![PyCharm](https://img.shields.io/badge/PyCharm-323330.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)&nbsp;
 ![VS Code](https://img.shields.io/badge/VSCode-323330?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 
-![Figma](https://img.shields.io/badge/Figma-323330?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-![MacOS](https://img.shields.io/badge/mac%20os-323330?style=for-the-badge&logo=apple&logoColor=white)&nbsp;
-
 ### Statistics
 
 <div align="center">
